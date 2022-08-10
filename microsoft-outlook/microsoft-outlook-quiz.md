@@ -670,3 +670,9 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] Outlook can display only pictures stored in JPG format.
 - [ ] Outlook automatically converts email to HTML.
 - [x] Pictures were prevented from being automatically downloaded. User may download if desired.
+
+You received a message with five attachments and need to save all of them in your Documents folder. How can you efficiently accomplish this?
+
+How can you quickly locate emails with large attachments?
+
+How can you search for specific text in the body of an email you are editing?
