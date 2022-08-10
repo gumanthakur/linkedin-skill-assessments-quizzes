@@ -833,3 +833,8 @@ What is the next step you should take to best fulfill your responsibilities and 
 - [x] Cloud Secuiry Posture Management (CSPM)
 - [ ] Secuirty Infromation Event Managment (SEIM)
 - [ ] Endpoint Detection and Response (EDR)
+
+
+#### Q109. Which option is a list of publicly disclosed information security defects?
+
+- [x] Common Vulnerabilities and Exposures(CVE)
